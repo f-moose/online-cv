@@ -124,12 +124,12 @@ projects:
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: EITI
-        # link: ""
+      - title: The Eolian
+        link: ""
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: The Eolian
-        link: "#"
+      - title: EITI
+        # link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
       - title: Virtual Reality Software & Technology 2018 publication

@@ -109,7 +109,7 @@ experiences:
           - Working on various on-prem and SaaS applications 
           - Working closely with developers and other team members to find, investigate, document and review defects 
 projects:
-    title: Personal projects & publications
+    title: Projects
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -120,14 +120,14 @@ projects:
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: EITI
-        link: "#"
+        link: ""
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: VRST
+      - title: The Eolian
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: The Eolian
+      - title: Virtual Reality Software & Technology 2018 publication
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 

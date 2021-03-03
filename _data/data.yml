@@ -29,13 +29,16 @@ sidebar:
         level: Conversational
 
     interests:
-      - item: Climbing
+      - item: Music
         link:
 
-      - item: Snowboarding
+      - item: Guitar & Oud
         link:
 
-      - item: Cooking
+      - item: Fitness & wellbeing
+        link:
+
+      - item: Fantasy novels
         link:
 
 career-profile:

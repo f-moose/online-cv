@@ -50,7 +50,7 @@ career-profile:
       
 
 education:
-    - degree: MSc in Human Computer Interaction with Ergonomics 
+    - degree: MSc in Human Computer Interaction with Ergonomics [Distinction]
       university: University College London
       time: 2015 - 2017
       details: |
@@ -61,7 +61,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Web Computing 
+    - degree: BSc in Web Computing [2:1]
       university: Kent University
       time: 2008 - 2012
       details: |

@@ -84,7 +84,7 @@ experiences:
           - Coding and analysis of large data sets to produce insights and implications from research findings
           - Development of an internal insights delivery framework to present key findings to peers and senior management
           - Mentoring and management of junior members of the team
-    - role: Senior software Tester 
+    - role: Senior Software Tester 
       time: 2013 - 2019
       company: Thomson Reuters, London
       details: |
@@ -120,7 +120,7 @@ projects:
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: EITI
-        link: ""
+        # link: ""
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
       - title: The Eolian

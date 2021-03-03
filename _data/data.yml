@@ -4,29 +4,29 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Fares Moustafa
-    tagline: Full Stack Developer
+    tagline: Software tester | Design researcher
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    email: fmoustafa@gmail.com
+    # phone: 07738220886
+    # website: blog.webjeda.com #do not add http://
+    linkedin: fares-moustafa
 
 
     languages:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: Arabic
+        level: Conversational
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Armenian
+        level: Conversational
 
     interests:
       - item: Climbing
@@ -45,9 +45,9 @@ career-profile:
       I’m able to achieve set goals through collaboration with colleagues as well as using my own initiative.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Human Computer Interaction with Ergonomics 
+      university: University College London
+      time: 2015 - 2017
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -56,9 +56,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Web Computing 
+      university: Kent University
+      time: 2008 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -68,21 +68,22 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software Tester & Design Researcher 
+      time: 2019 - Present
+      company: Ctrl Group, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Joined Ctrl-Group as a multi-disciplinary professional to deliver robust quality assurance and software delivery frameworks for iOS, Android and web solutions. In addition, working as a design researcher to better understand the needs of users, feedback key insights to stakeholders and action findings into release builds. 
+          - Coordinating requirements and outputs across mobile, web, backend, design and research teams for app releases
+          - Creating clear, concise and prioritised milestones for product teams to follow
+          - Discussing team blockers and proposing timely resolutions with senior management during regular progress updates
+          - Leading delivery efforts across distributed teams within the UK and internationally to deliver on tight deadlines
+          - Shaping new functionality into deliverable chunks to be implemented during project cycles
+          - Implementation of an end-to-end QA and release strategy from the ground up
+          - Development of discussion guides for user research
+          - Conducting remote qualitative user interviews
+          - Coding and analysis of large data sets to produce insights and implications from research findings
+          - Development of an internal insights delivery framework to present key findings to peers and senior management
+          - Mentoring and management of junior members of the team
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London

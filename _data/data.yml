@@ -27,6 +27,21 @@ sidebar:
       - idiom: Defect management and triaging
         level: 
 
+      - idiom: iOS | Android
+        level:           
+      - idiom: Android
+        level: 
+      - idiom: Mobile and web app testing
+        level: 
+      - idiom: Quantitative & qualitative research methodologies
+        level: 
+      - idiom: GitHub
+        level: 
+      - idiom: HTML 5 | CSS 3 
+        level: 
+      - idiom: Bootstrap | Jekyll 
+        level:          
+
       - idiom: Arabic
         level: Conversational
 

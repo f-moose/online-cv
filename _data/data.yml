@@ -59,24 +59,12 @@ education:
       university: University College London
       time: 2015 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
     - degree: BSc in Web Computing [2:1]
       university: Kent University
       time: 2008 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
 experiences:
     - role: Software Tester & Design Researcher 
       time: 2019 - Present
@@ -94,6 +82,7 @@ experiences:
           - Coding and analysis of large data sets to produce insights and implications from research findings
           - Development of an internal insights delivery framework to present key findings to peers and senior management
           - Mentoring and management of junior members of the team
+
     - role: Senior Software Tester 
       time: 2013 - 2019
       company: Thomson Reuters, London
@@ -126,8 +115,9 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Foundation First
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        link: "https://foundationfirsteducation.org/"
+        tagline: "Foundation First UK is a charity which aims to provide a strong foundation of early childhood education in nurseries and kindergarten in Ghana.
+        I've been working with Foundation First since 2019 focusing on the design and ongoing development of their website, blog and organisational domain. "
 
       - title: The Eolian
         link: ""
@@ -138,7 +128,7 @@ projects:
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
       - title: Virtual Reality Software & Technology 2018 publication
-        link: "#"
+        link: "https://dl.acm.org/doi/10.1145/3281505.3281527"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
 # publications:

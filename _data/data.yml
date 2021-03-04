@@ -20,6 +20,11 @@ sidebar:
 
     languages:
       - idiom: Delivery and release management
+      
+      - idiom: Test frameworks
+        level: 
+
+      - idiom: Defect management and triaging
         level: 
 
       - idiom: Arabic

@@ -20,33 +20,18 @@ sidebar:
 
     languages:
       - idiom: Delivery and release management
-      
       - idiom: Test frameworks
-        level: 
-
       - idiom: Defect management and triaging
-        level: 
-
-      - idiom: iOS | Android
-        level:           
-      - idiom: Android
-        level: 
+      - idiom: iOS | Android          
       - idiom: Mobile and web app testing
-        level: 
+      - idiom: UCD
+      - idiom: User research
       - idiom: Quantitative & qualitative research methodologies
-        level: 
       - idiom: GitHub
-        level: 
       - idiom: HTML 5 | CSS 3 
-        level: 
-      - idiom: Bootstrap | Jekyll 
-        level:          
-
-      - idiom: Arabic
-        level: Conversational
-
-      - idiom: Armenian
-        level: Conversational
+      - idiom: Bootstrap | Jekyll      
+      - idiom: Arabic speaker (conversational)
+      - idiom: Armenian speaker (conversational)
 
     interests:
       - item: Music

@@ -110,26 +110,27 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I try to set myself personal goals and challenges when possible, to learn new skills or explore personal interests in greater detail. These usually don't manifest into a digital form but below are some recent and older examples of projects I have worked on.
+
     assignments:
       - title: Foundation First
         link: "https://foundationfirsteducation.org/"
-        tagline: "Foundation First UK is a charity which aims to provide a strong foundation of early childhood education in nurseries and kindergarten in Ghana.
-        I've been working with Foundation First since 2019 focusing on the design and ongoing development of their website, blog and organisational domain. "
+        tagline: "Foundation First is a charity which aims to provide a strong foundation of early childhood education in nurseries and kindergarten in Ghana.
+        I've been working with Foundation First since 2019 focusing on the design and ongoing development of their website, blog, internal IT infrastructure and strategy."
 
       - title: The Eolian
-        link: ""
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        link: "https://f-moose.github.io/oud-blog/"
+        tagline: "A more recent personal project to primarily document my progression with the Oud, an instrument I've been learning to play for the last year or so.
+        But to additionally experiment with Jekyll frameworks and GH hosting."
 
-      - title: EITI
-        # link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Virtual Reality Software & Technology 2018 publication
+      - title: A longitudinal study of small group interaction in social virtual reality
         link: "https://dl.acm.org/doi/10.1145/3281505.3281527"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "My MSc thesis publication to Virtual Reality Software & Technology 2018."
+
+      - title: Working with the EITI as a UX consultant
+        # link: "#"
+        tagline: "The EITI are a non-profit organisation who specialise in the development of global standards for the good governance of oil, gas and mineral resources. 
+        I worked with them for 3 months in the summer of 2018 to conduct a Heuristic Evaluation report of their existing website and mock wireframes for a site redesign."
 
 # publications:
 #     title: Publications

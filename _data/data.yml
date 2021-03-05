@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Fares Moustafa
-    tagline: Software tester | Design researcher
+    tagline: Software Tester | Design Researcher
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -37,7 +37,7 @@ sidebar:
       - item: Music
         link:
 
-      - item: Guitar & Oud
+      - item: Guitar & oud
         link:
 
       - item: Fitness & well-being
@@ -49,7 +49,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Delivering high quality applications via user-centered design principles is at the forefront of what I do. Helping to ensure that business deliverables are aligned with user needs. <br />
+      Delivering high quality applications via user-centred design principles is at the forefront of what I do, thereby helping to ensure that business deliverables are aligned with user needs. <br />
       I'm a motivated and ambitious individual with experience working in fast-paced, agile teams.
       I’m able to achieve set goals through collaboration with colleagues as well as using my own initiative.
       
@@ -67,70 +67,69 @@ education:
 
 experiences:
     - role: Software Tester & Design Researcher 
-      time: 2019 - Present
+      time: 2019 - present
       company: Ctrl Group, London
       details: |
         Joined Ctrl-Group as a multi-disciplinary professional to deliver robust quality assurance and software delivery frameworks for iOS, Android and web solutions. In addition, working as a design researcher to better understand the needs of users, feedback key insights to stakeholders and action findings into release builds. 
-          - Coordinating requirements and outputs across mobile, web, backend, design and research teams for app releases
-          - Creating clear, concise and prioritised milestones for product teams to follow
-          - Discussing team blockers and proposing timely resolutions with senior management during regular progress updates
-          - Leading delivery efforts across distributed teams within the UK and internationally to deliver on tight deadlines
-          - Shaping new functionality into deliverable chunks to be implemented during project cycles
-          - Implementation of an end-to-end QA and release strategy from the ground up
-          - Development of discussion guides for user research
-          - Conducting remote qualitative user interviews
-          - Coding and analysis of large data sets to produce insights and implications from research findings
-          - Development of an internal insights delivery framework to present key findings to peers and senior management
-          - Mentoring and management of junior members of the team
+          - Coordinate requirements and outputs across mobile, web, backend, design and research teams for app releases
+          - Create clear, concise and prioritised milestones for product teams to follow
+          - Discuss team blockers and propose timely resolutions to senior management during regular progress updates
+          - Lead delivery efforts across distributed teams within the UK and internationally to deliver on tight deadlines
+          - Shape new functionality into deliverable chunks to be implemented during project cycles
+          - Implemented an end-to-end QA and release strategy from the ground up
+          - Develop discussion guides for user research
+          - Conduct remote qualitative user interviews
+          - Code and analyse large data sets to produce insights and implications from research findings
+          - Developed an internal insights delivery framework to present key findings to peers and senior management
+          - Mentor and manage junior members of the team
 
     - role: Senior Software Tester 
       time: 2013 - 2019
       company: Thomson Reuters, London
       details: |
-        Joined as a manual tester tasked with developing expanding test libraries, later evolving into a hybrid role which encompassed the development of automated tests, defining test strategy and user research/design.
-          - Development of automated tests in C# using Selenium and Gherkin within a POM framework 
-          - Developing test plans and schedules for internal and remote QA teams
-          - Leading QA teams on various on-prem, Salesforce and SharePoint projects
-          - Working closely with various interdepartmental teams
-          - Reporting on testing status to management and stakeholders
-          - Training of new QA team members
-          - Aiding in remote and face-to-face user testing sessions 
-          - Reporting findings to the wider development team and stakeholders
-          - Development of wireframes for an application redesign
+        Joined as a manual tester tasked with developing expanding test libraries, and the role evolved into a hybrid one which encompassed the development of automated tests, defining test strategy and user research/design.
+          - Developed automated tests in C# using Selenium and Gherkin within a POM framework 
+          - Developed test plans and schedules for internal and remote QA teams
+          - Led QA teams on various on-prem, Salesforce and SharePoint projects
+          - Worked closely with various interdepartmental teams
+          - Reported on testing status to management and stakeholders
+          - Trained of new QA team members
+          - Aided in remote and face-to-face user testing sessions 
+          - Reported findings to the wider development team and stakeholders
+          - Developed wireframes for an application redesign
 
     - role: Test Engineer 
       time: 2012 - 2013
       company: Experian QAS, London
       details: |
-          - Outlining and documenting QA procedure within sprints
-          - Writing and developing automated and manual tests
-          - Designing and executing test cases based on test plans, requirements and functional specifications
-          - Working on various on-prem and SaaS applications 
-          - Working closely with developers and other team members to find, investigate, document and review defects 
+          - Outlined and documented QA procedure within sprints
+          - Wrote and developed automated and manual tests
+          - Designed and executed test cases based on test plans, requirements and functional specifications
+          - Worked on various on-prem and SaaS applications 
+          - Worked closely with developers and other team members to find, investigate, document and review defects 
 projects:
     title: Projects
     intro: >
-      I try to set myself personal goals and challenges when possible, to learn new skills or explore personal interests in greater detail. These usually don't manifest into a digital form but below are some recent and older examples of projects I have worked on.
+      I set myself personal goals and challenges to learn new skills and explore personal interests in greater detail. These don't always manifest into a digital form, but below are some examples of projects I have worked on.
 
     assignments:
       - title: Foundation First
         link: "https://foundationfirsteducation.org/"
-        tagline: "Foundation First is a charity which aims to provide a strong foundation of early childhood education in nurseries and kindergarten in Ghana.
-        I've been working with Foundation First since 2019 focusing on the design and ongoing development of their website, blog, internal IT infrastructure and strategy."
+        tagline: "Foundation First is a charity which aims to provide a strong foundation of early childhood education in nurseries and kindergartens in Ghana.
+        I've been working with Foundation First as a volunteer since 2019, focusing on the design and ongoing development of their website, blog, internal IT infrastructure and strategy."
 
       - title: The Eolian
         link: "https://f-moose.github.io/oud-blog/"
-        tagline: "A more recent personal project to primarily document my progression with the Oud, an instrument I've been learning to play for the last year or so.
-        But to additionally experiment with Jekyll frameworks and GH hosting."
+        tagline: "This is a more recent personal project aimed primarily at documenting my progression with the oud (an instrument I've been learning to play for the last year or so) whilst also enabling me to experiment with Jekyll frameworks and GitHub hosting."
 
       - title: A longitudinal study of small group interaction in social virtual reality
         link: "https://dl.acm.org/doi/10.1145/3281505.3281527"
-        tagline: "My MSc thesis publication to Virtual Reality Software & Technology 2018."
+        tagline: "This is my MSc thesis publication on Virtual Reality Software & Technology 2018."
 
       - title: Working with the EITI as a UX consultant
         # link: "#"
-        tagline: "The EITI are a non-profit organisation who specialise in the development of global standards for the good governance of oil, gas and mineral resources. 
-        I worked with them for 3 months in the summer of 2018 to conduct a Heuristic Evaluation report of their existing website and mock wireframes for a site redesign."
+        tagline: "The EITI is a non-profit organisation which specialises in the development of global standards for the good governance of oil, gas and mineral resources. 
+        I worked with them for 3 months in the summer of 2018 to conduct a heuristic evaluation report of their existing website and mock wireframes for a site redesign."
 
 # publications:
 #     title: Publications

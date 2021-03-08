@@ -87,7 +87,7 @@ experiences:
       time: 2013 - 2019
       company: Thomson Reuters, London
       details: |
-        Joined as a manual tester tasked with developing expanding test libraries, and the role evolved into a hybrid one which encompassed the development of automated tests, defining test strategy and user research/design.
+        Joined as a manual tester tasked with developing expanding test libraries. The role later evolved into a hybrid one which encompassed the development of automated tests, defining test strategy and user research/design.
           - Developed automated tests in C# using Selenium and Gherkin within a POM framework 
           - Developed test plans and schedules for internal and remote QA teams
           - Led QA teams on various on-prem, Salesforce and SharePoint projects
